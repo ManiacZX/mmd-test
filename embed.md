@@ -11,6 +11,10 @@ graph TD;
     C-->D;
 ```
 
+* look at
+* all of my
+* bulleted items
+
 ### Another diagram
 
 ```mermaid
